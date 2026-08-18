@@ -1,0 +1,26 @@
+name: 'retail_analytics_dbt'
+version: '1.0'
+config-version: 2
+
+profile: 'retail_analytics'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+snapshot-paths: ["snapshots"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+
+models:
+  retail_analytics_dbt:
+
+    staging:
+      +materialized: view
+      +dataset: retail_staging
+
+    warehouse:
+      +materialized: table
+      +dataset: retail_warehouse
+
+    marts:
+      +materialized: table
+      +dataset: retail_marts

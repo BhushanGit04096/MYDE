@@ -1,0 +1,6 @@
+# dbt
+profiles.yml
+.dbt/
+
+# credentials
+*.json

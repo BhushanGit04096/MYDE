@@ -1,0 +1,201 @@
+customer_id,customer_name,city,state,signup_date
+C001,Customer_001,Mumbai,Maharashtra,2025-02-27
+C002,Customer_002,Bangalore,Karnataka,2026-01-15
+C003,Customer_003,Chennai,Tamil Nadu,2025-05-06
+C004,Customer_004,Hyderabad,Telangana,2025-03-13
+C005,Customer_005,Mumbai,Maharashtra,2025-02-22
+C006,Customer_006,Mumbai,Maharashtra,2026-01-15
+C007,Customer_007,Delhi,Delhi,2025-02-14
+C008,Customer_008,Delhi,Delhi,2025-08-05
+C009,Customer_009,Bangalore,Karnataka,2025-01-16
+C010,Customer_010,Bangalore,Karnataka,2025-04-22
+C011,Customer_011,Hyderabad,Telangana,2025-09-16
+C012,Customer_012,Delhi,Delhi,2025-01-14
+C013,Customer_013,Delhi,Delhi,2025-04-12
+C014,Customer_014,Mumbai,Maharashtra,2025-11-29
+C015,Customer_015,Mumbai,Maharashtra,2025-10-07
+C016,Customer_016,Pune,Maharashtra,2025-04-23
+C017,Customer_017,Pune,Maharashtra,2025-10-29
+C018,Customer_018,Chennai,Tamil Nadu,2026-02-19
+C019,Customer_019,Bangalore,Karnataka,2026-01-24
+C020,Customer_020,Hyderabad,Telangana,2025-12-24
+C021,Customer_021,Pune,Maharashtra,2025-06-24
+C022,Customer_022,Chennai,Tamil Nadu,2025-03-21
+C023,Customer_023,Hyderabad,Telangana,2026-05-06
+C024,Customer_024,Chennai,Tamil Nadu,2025-02-22
+C025,Customer_025,Bangalore,Karnataka,2025-07-14
+C026,Customer_026,Bangalore,Karnataka,2025-07-03
+C027,Customer_027,Chennai,Tamil Nadu,2025-11-06
+C028,Customer_028,Chennai,Tamil Nadu,2026-02-18
+C029,Customer_029,Bangalore,Karnataka,2026-01-09
+C030,Customer_030,Pune,Maharashtra,2025-10-02
+C031,Customer_031,Bangalore,Karnataka,2026-05-14
+C032,Customer_032,Pune,Maharashtra,2025-02-10
+C033,Customer_033,Delhi,Delhi,2025-05-31
+C034,Customer_034,Mumbai,Maharashtra,2025-11-13
+C035,Customer_035,Chennai,Tamil Nadu,2025-10-23
+C036,Customer_036,Hyderabad,Telangana,2025-12-27
+C037,Customer_037,Bangalore,Karnataka,2025-01-24
+C038,Customer_038,Mumbai,Maharashtra,2025-04-27
+C039,Customer_039,Chennai,Tamil Nadu,2025-02-10
+C040,Customer_040,Hyderabad,Telangana,2026-03-20
+C041,Customer_041,Bangalore,Karnataka,2025-07-14
+C042,Customer_042,Chennai,Tamil Nadu,2025-08-21
+C043,Customer_043,Mumbai,Maharashtra,2026-03-04
+C044,Customer_044,Chennai,Tamil Nadu,2025-03-25
+C045,Customer_045,Chennai,Tamil Nadu,2025-07-01
+C046,Customer_046,Hyderabad,Telangana,2025-12-10
+C047,Customer_047,Chennai,Tamil Nadu,2025-12-26
+C048,Customer_048,Mumbai,Maharashtra,2025-11-28
+C049,Customer_049,Bangalore,Karnataka,2025-11-08
+C050,Customer_050,Mumbai,Maharashtra,2025-03-29
+C051,Customer_051,Delhi,Delhi,2026-01-09
+C052,Customer_052,Hyderabad,Telangana,2025-03-25
+C053,Customer_053,Pune,Maharashtra,2025-07-14
+C054,Customer_054,Chennai,Tamil Nadu,2026-04-19
+C055,Customer_055,Mumbai,Maharashtra,2025-12-19
+C056,Customer_056,Delhi,Delhi,2025-04-23
+C057,Customer_057,Mumbai,Maharashtra,2025-06-16
+C058,Customer_058,Bangalore,Karnataka,2025-04-28
+C059,Customer_059,Bangalore,Karnataka,2026-02-17
+C060,Customer_060,Chennai,Tamil Nadu,2025-07-25
+C061,Customer_061,Chennai,Tamil Nadu,2025-02-03
+C062,Customer_062,Hyderabad,Telangana,2026-04-13
+C063,Customer_063,Delhi,Delhi,2026-03-25
+C064,Customer_064,Mumbai,Maharashtra,2025-06-11
+C065,Customer_065,Hyderabad,Telangana,2025-12-02
+C066,Customer_066,Pune,Maharashtra,2025-07-22
+C067,Customer_067,Mumbai,Maharashtra,2025-08-23
+C068,Customer_068,Hyderabad,Telangana,2025-05-16
+C069,Customer_069,Hyderabad,Telangana,2025-05-07
+C070,Customer_070,Mumbai,Maharashtra,2025-10-15
+C071,Customer_071,Delhi,Delhi,2025-05-15
+C072,Customer_072,Mumbai,Maharashtra,2025-10-27
+C073,Customer_073,Pune,Maharashtra,2026-04-05
+C074,Customer_074,Delhi,Delhi,2025-07-24
+C075,Customer_075,Chennai,Tamil Nadu,2025-04-23
+C076,Customer_076,Hyderabad,Telangana,2025-09-18
+C077,Customer_077,Pune,Maharashtra,2025-02-16
+C078,Customer_078,Bangalore,Karnataka,2026-03-17
+C079,Customer_079,Bangalore,Karnataka,2025-03-20
+C080,Customer_080,Mumbai,Maharashtra,2025-03-23
+C081,Customer_081,Mumbai,Maharashtra,2025-08-05
+C082,Customer_082,Delhi,Delhi,2025-02-02
+C083,Customer_083,Pune,Maharashtra,2025-07-15
+C084,Customer_084,Delhi,Delhi,2025-08-28
+C085,Customer_085,Delhi,Delhi,2025-05-09
+C086,Customer_086,Delhi,Delhi,2026-03-17
+C087,Customer_087,Bangalore,Karnataka,2025-12-15
+C088,Customer_088,Mumbai,Maharashtra,2025-02-28
+C089,Customer_089,Mumbai,Maharashtra,2026-03-30
+C090,Customer_090,Delhi,Delhi,2026-01-20
+C091,Customer_091,Chennai,Tamil Nadu,2026-01-29
+C092,Customer_092,Mumbai,Maharashtra,2025-06-24
+C093,Customer_093,Bangalore,Karnataka,2025-05-31
+C094,Customer_094,Pune,Maharashtra,2025-03-22
+C095,Customer_095,Pune,Maharashtra,2025-01-02
+C096,Customer_096,Mumbai,Maharashtra,2026-03-25
+C097,Customer_097,Mumbai,Maharashtra,2025-05-15
+C098,Customer_098,Delhi,Delhi,2026-01-26
+C099,Customer_099,Hyderabad,Telangana,2025-09-17
+C100,Customer_100,Bangalore,Karnataka,2026-03-22
+C101,Customer_001,Mumbai,Maharashtra,2025-02-27
+C102,Customer_002,Bangalore,Karnataka,2026-01-15
+C103,Customer_003,Chennai,Tamil Nadu,2025-05-06
+C104,Customer_004,Hyderabad,Telangana,2025-03-13
+C105,Customer_005,Mumbai,Maharashtra,2025-02-22
+C106,Customer_006,Mumbai,Maharashtra,2026-01-15
+C107,Customer_007,Delhi,Delhi,2025-02-14
+C108,Customer_008,Delhi,Delhi,2025-08-05
+C109,Customer_009,Bangalore,Karnataka,2025-01-16
+C110,Customer_010,Bangalore,Karnataka,2025-04-22
+C111,Customer_011,Hyderabad,Telangana,2025-09-16
+C112,Customer_012,Delhi,Delhi,2025-01-14
+C113,Customer_013,Delhi,Delhi,2025-04-12
+C114,Customer_014,Mumbai,Maharashtra,2025-11-29
+C115,Customer_015,Mumbai,Maharashtra,2025-10-07
+C116,Customer_016,Pune,Maharashtra,2025-04-23
+C117,Customer_017,Pune,Maharashtra,2025-10-29
+C118,Customer_018,Chennai,Tamil Nadu,2026-02-19
+C119,Customer_019,Bangalore,Karnataka,2026-01-24
+C120,Customer_020,Hyderabad,Telangana,2025-12-24
+C121,Customer_021,Pune,Maharashtra,2025-06-24
+C122,Customer_022,Chennai,Tamil Nadu,2025-03-21
+C123,Customer_023,Hyderabad,Telangana,2026-05-06
+C124,Customer_024,Chennai,Tamil Nadu,2025-02-22
+C125,Customer_025,Bangalore,Karnataka,2025-07-14
+C126,Customer_026,Bangalore,Karnataka,2025-07-03
+C127,Customer_027,Chennai,Tamil Nadu,2025-11-06
+C128,Customer_028,Chennai,Tamil Nadu,2026-02-18
+C129,Customer_029,Bangalore,Karnataka,2026-01-09
+C130,Customer_030,Pune,Maharashtra,2025-10-02
+C131,Customer_031,Bangalore,Karnataka,2026-05-14
+C132,Customer_032,Pune,Maharashtra,2025-02-10
+C133,Customer_033,Delhi,Delhi,2025-05-31
+C134,Customer_034,Mumbai,Maharashtra,2025-11-13
+C135,Customer_035,Chennai,Tamil Nadu,2025-10-23
+C136,Customer_036,Hyderabad,Telangana,2025-12-27
+C137,Customer_037,Bangalore,Karnataka,2025-01-24
+C138,Customer_038,Mumbai,Maharashtra,2025-04-27
+C139,Customer_039,Chennai,Tamil Nadu,2025-02-10
+C140,Customer_040,Hyderabad,Telangana,2026-03-20
+C141,Customer_041,Bangalore,Karnataka,2025-07-14
+C142,Customer_042,Chennai,Tamil Nadu,2025-08-21
+C143,Customer_043,Mumbai,Maharashtra,2026-03-04
+C144,Customer_044,Chennai,Tamil Nadu,2025-03-25
+C145,Customer_045,Chennai,Tamil Nadu,2025-07-01
+C146,Customer_046,Hyderabad,Telangana,2025-12-10
+C147,Customer_047,Chennai,Tamil Nadu,2025-12-26
+C148,Customer_048,Mumbai,Maharashtra,2025-11-28
+C149,Customer_049,Bangalore,Karnataka,2025-11-08
+C150,Customer_050,Mumbai,Maharashtra,2025-03-29
+C151,Customer_051,Delhi,Delhi,2026-01-09
+C152,Customer_052,Hyderabad,Telangana,2025-03-25
+C153,Customer_053,Pune,Maharashtra,2025-07-14
+C154,Customer_054,Chennai,Tamil Nadu,2026-04-19
+C155,Customer_055,Mumbai,Maharashtra,2025-12-19
+C156,Customer_056,Delhi,Delhi,2025-04-23
+C157,Customer_057,Mumbai,Maharashtra,2025-06-16
+C158,Customer_058,Bangalore,Karnataka,2025-04-28
+C159,Customer_059,Bangalore,Karnataka,2026-02-17
+C160,Customer_060,Chennai,Tamil Nadu,2025-07-25
+C161,Customer_061,Chennai,Tamil Nadu,2025-02-03
+C162,Customer_062,Hyderabad,Telangana,2026-04-13
+C163,Customer_063,Delhi,Delhi,2026-03-25
+C164,Customer_064,Mumbai,Maharashtra,2025-06-11
+C165,Customer_065,Hyderabad,Telangana,2025-12-02
+C166,Customer_066,Pune,Maharashtra,2025-07-22
+C167,Customer_067,Mumbai,Maharashtra,2025-08-23
+C168,Customer_068,Hyderabad,Telangana,2025-05-16
+C169,Customer_069,Hyderabad,Telangana,2025-05-07
+C170,Customer_070,Mumbai,Maharashtra,2025-10-15
+C171,Customer_071,Delhi,Delhi,2025-05-15
+C172,Customer_072,Mumbai,Maharashtra,2025-10-27
+C173,Customer_073,Pune,Maharashtra,2026-04-05
+C174,Customer_074,Delhi,Delhi,2025-07-24
+C175,Customer_075,Chennai,Tamil Nadu,2025-04-23
+C176,Customer_076,Hyderabad,Telangana,2025-09-18
+C177,Customer_077,Pune,Maharashtra,2025-02-16
+C178,Customer_078,Bangalore,Karnataka,2026-03-17
+C179,Customer_079,Bangalore,Karnataka,2025-03-20
+C180,Customer_080,Mumbai,Maharashtra,2025-03-23
+C181,Customer_081,Mumbai,Maharashtra,2025-08-05
+C182,Customer_082,Delhi,Delhi,2025-02-02
+C183,Customer_083,Pune,Maharashtra,2025-07-15
+C184,Customer_084,Delhi,Delhi,2025-08-28
+C185,Customer_085,Delhi,Delhi,2025-05-09
+C186,Customer_086,Delhi,Delhi,2026-03-17
+C187,Customer_087,Bangalore,Karnataka,2025-12-15
+C188,Customer_088,Mumbai,Maharashtra,2025-02-28
+C189,Customer_089,Mumbai,Maharashtra,2026-03-30
+C190,Customer_090,Delhi,Delhi,2026-01-20
+C191,Customer_091,Chennai,Tamil Nadu,2026-01-29
+C192,Customer_092,Mumbai,Maharashtra,2025-06-24
+C193,Customer_093,Bangalore,Karnataka,2025-05-31
+C194,Customer_094,Pune,Maharashtra,2025-03-22
+C195,Customer_095,Pune,Maharashtra,2025-01-02
+C196,Customer_096,Mumbai,Maharashtra,2026-03-25
+C197,Customer_097,Mumbai,Maharashtra,2025-05-15
+C198,Customer_098,Delhi,Delhi,2026-01-26
+C199,Customer_099,Hyderabad,Telangana,2025-09-17
+C200,Customer_100,Bangalore,Karnataka,2026-03-22

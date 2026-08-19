@@ -15,12 +15,12 @@ models:
 
     staging:
       +materialized: view
-      +dataset: retail_staging
+      +schema: staging
 
     warehouse:
       +materialized: table
-      +dataset: retail_warehouse
+      +schema: warehouse
 
     marts:
       +materialized: table
-      +dataset: retail_marts
+      +schema: marts

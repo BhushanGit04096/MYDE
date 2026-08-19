@@ -1,3 +1,7 @@
+#replace the destination dataset path and the DBT model path till MYDE/dbt/retail_analytics_dbt
+
+
+
 from airflow import DAG
 from airflow.utils.task_group import TaskGroup
 from airflow.providers.google.cloud.sensors.gcs import GCSObjectExistenceSensor
